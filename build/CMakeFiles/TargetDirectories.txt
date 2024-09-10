@@ -1,0 +1,3 @@
+/home/lbyj/CLionProjects/Job/build/CMakeFiles/Job.dir
+/home/lbyj/CLionProjects/Job/build/CMakeFiles/edit_cache.dir
+/home/lbyj/CLionProjects/Job/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/lbyj/CLionProjects/Job/build",
+  "command": "/usr/bin/g++-9 -g -std=gnu++17 -o CMakeFiles/Job.dir/main.cpp.o -c /home/lbyj/CLionProjects/Job/main.cpp",
+  "file": "/home/lbyj/CLionProjects/Job/main.cpp",
+  "output": "CMakeFiles/Job.dir/main.cpp.o"
+}
+]
